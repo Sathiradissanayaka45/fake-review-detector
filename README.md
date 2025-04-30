@@ -1,7 +1,7 @@
 # Trustworthy Reviewer Scoring System for Detecting Fake Reviews
 
 <div align="center">
-  <img src="https://github.com/Sathiradissanayaka45/fake-review-detector/edit/main/assets/overall.png" alt="System Architecture" width="700">
+  <img src="https://github.com/Sathiradissanayaka45/fake-review-detector/edit/main/assests/overall.png" alt="System Architecture" width="700">
 </div>
 
 ## 📑 Overview
