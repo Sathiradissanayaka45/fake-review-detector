@@ -2,6 +2,8 @@
 
 [GitHub Repository](https://github.com/Sathiradissanayaka45/fake-review-detector)
 
+https://github.com/Sathiradissanayaka45/fake-review-detector
+
 ![System Diagram](./assests/overall.png)
 
 ## 📑 Overview
