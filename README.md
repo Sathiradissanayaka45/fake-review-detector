@@ -41,9 +41,7 @@ This component aims to develop a reliable and efficient textual analysis system 
 - Detects sentiment-rating mismatches to identify potential fake reviews
 - Employs readability metrics to identify robotic or templated writing styles
 
-<div align="center">
-  <img src="https://github.com/username/repo-name/raw/main/images/textual-analysis-flow.png" alt="Textual Analysis Flow" width="600">
-</div>
+![Textual diagram](./assests/textual.png)
 
 ### 2. Fake Reviewer Detection System (Jayawardhana R.A.D.G.S)
 
@@ -55,9 +53,7 @@ This component focuses on detecting fake reviewers by analyzing behavioral patte
 - Implements anomaly detection algorithms to identify outliers
 - Creates a trustworthy reviewer scoring system to rank reviewers by reliability
 
-<div align="center">
-  <img src="https://github.com/username/repo-name/raw/main/images/reviewer-detection-flow.png" alt="Reviewer Detection Flow" width="600">
-</div>
+![Behaviour diagram](./assests/behaviar.png)
 
 ### 3. Fusion-Based Hybrid Validation System (Thathsarani H.A.N.N)
 
@@ -69,9 +65,7 @@ This component combines textual and behavioral features into a unified system fo
 - Utilizes explainable AI techniques like SHAP to interpret model decisions
 - Provides human-understandable explanations for the model's output
 
-<div align="center">
-  <img src="https://github.com/username/repo-name/raw/main/images/hybrid-system-flow.png" alt="Hybrid System Flow" width="600">
-</div>
+![Explanable AI diagram](./assests/AI.png)
 
 ## 🛠️ Technology Stack
 
