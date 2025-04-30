@@ -164,7 +164,6 @@ This component combines textual and behavioral features into a unified system fo
 |:-------|:-----------|:-----------|:-----------|:-----------|:-----------|:-------------|
 | Sentiment Analysis | ✓ | ✗ | ✗ | ✓ | ✓ | ✓ |
 | Readability Metrics | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ |
-| Transformer Models | ✗ | ✗ | ✗ | ✓ | ✗ | ✓ |
 | Explainable AI | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ |
 
 ### Fake Reviewer Detection
