@@ -1,6 +1,6 @@
 # Trustworthy Reviewer Scoring System for Detecting Fake Reviews
 
-![Architecture Overview](https://github.com/Sathiradissanayaka45/fake-review-detector/edit/main/assests/overall.png)
+![System Diagram](./assests/overall.png)
 
 
 ## 📑 Overview
