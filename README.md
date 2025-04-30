@@ -153,11 +153,10 @@ This component combines textual and behavioral features into a unified system fo
 | Fake reviewer identify | Yes | No | No | Yes |
 
 ### Fusion-Based Hybrid Validation System
-
-| Aspect | Research A | Research B | Research C | Our Approach |
-|:-------|:-----------|:-----------|:-----------|
+| Feature | Research A | Research B | Research C | Our System |
+|:-------|:-----------|:-----------|:-----------|:-----------|
 | Textual Analysis via NLP | ✓ | ✗ | ✗ | ✓ |
-| Analyzes user behavior patterns, including review history | ✗ | ✓ | ✗ | ✓ |
+| Analyzes  | ✗ | ✓ | ✗ | ✓ |
 | Hybrid Approaches | ✗ | ✗ | ✓ | ✓ |
 | Explainable AI(XAI) | ✗ | ✗ | ✗ | ✓ |
 
