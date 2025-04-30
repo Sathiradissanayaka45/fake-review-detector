@@ -63,19 +63,11 @@ This component aims to develop a reliable and efficient textual analysis system 
 - Uses transformer-based models for more accurate classification
 - Detects sentiment-rating mismatches to identify potential fake reviews
 - Employs readability metrics to identify robotic or templated writing styles
-
-![Textual diagram](./assests/textual.PNG)
+- 
 
 **Key Research Questions:**
 - Why do traditional methods fail to detect fake reviews effectively?
 - What is the impact of sentiment-rating mismatches in detection?
-
-**Process Flow:**
-1. Preprocess review text using NLP techniques
-2. Extract linguistic and semantic features
-3. Compute readability metrics to identify robotic writing
-4. Detect mismatches between text sentiment and numeric ratings
-5. Train and evaluate machine learning models
 
 ### 2. Fake Reviewer Detection System (Jayawardhana R.A.D.G.S)
 
@@ -87,15 +79,6 @@ This component focuses on detecting fake reviewers by analyzing behavioral patte
 - Implements anomaly detection algorithms to identify outliers
 - Creates a trustworthy reviewer scoring system to rank reviewers by reliability
 
-![Behaviour diagram](./assests/behaviar.PNG)
-
-**Process Flow:**
-1. Identify textual, behavioral and account-based features
-2. Collect the dataset and pre-process it
-3. Conduct model selection, training and anomaly detection
-4. Evaluate with anomaly scoring and thresholding
-5. Implement post-processing interpretation and visualization
-6. Develop trustworthy reviewer scoring system
 
 ### 3. Fusion-Based Hybrid Validation System (Thathsarani H.A.N.N)
 
@@ -107,22 +90,10 @@ This component combines textual and behavioral features into a unified system fo
 - Utilizes explainable AI techniques like SHAP to interpret model decisions
 - Provides human-understandable explanations for the model's output
 
-![Explanable AI diagram](./assests/AI.PNG)
-
 **Key Research Questions:**
 - How can we accurately detect fake reviews using a hybrid approach?
 - How can we ensure trust in the model's decisions?
 
-**Process Flow:**
-1. Combine textual and behavioral features into a unified feature set
-2. Normalize and standardize features to ensure comparability
-3. Handle missing values and outliers
-4. Experiment with different machine learning algorithms
-5. Train and evaluate models using appropriate metrics
-6. Fine-tune hyperparameters to optimize performance
-7. Utilize SHAP to interpret model decisions
-8. Visualize feature importance and decision boundaries
-9. Provide human-understandable explanations
 
 ## 🛠️ Technology Stack
 
