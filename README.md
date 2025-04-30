@@ -134,28 +134,6 @@ This component combines textual and behavioral features into a unified system fo
 - **Explainable AI**: SHAP, LIME
 - **Development Tools**: Jupyter Notebook, VS Code, Git
 
-## 📊 Datasets
-
-1. **Amazon Fine Food Reviews Dataset**
-   - Source: Kaggle
-   - Size: Over 500,000 reviews
-   - Parameters:
-     - Text: User review text
-     - Score: Numeric star rating
-     - Product ID: Unique identifier for the product
-     - Reviewer ID: Unique identifier for the reviewer
-     - Time: Timestamp for review
-
-2. **ClickHouse Dataset**
-   - Target Area: Product reviews and customer sentiment analysis on Amazon
-   - Data Size: Customizable
-   - Parameters:
-     - Text
-     - Rating
-     - Product ID
-     - Reviewer ID
-     - Date
-
 ## 📑 Research Comparison
 
 ### Textual Content Analysis
@@ -173,6 +151,15 @@ This component combines textual and behavioral features into a unified system fo
 | Fake review detection | Yes | No | Yes | Yes |
 | Rating scoring system | No | No | No | Yes |
 | Fake reviewer identify | Yes | No | No | Yes |
+
+### Fusion-Based Hybrid Validation System
+
+| Aspect | Research A | Research B | Research C | Our Approach |
+|:-------|:-----------|:-----------|:-----------|
+| Textual Analysis via NLP | ✓ | ✗ | ✗ | ✓ |
+| Analyzes user behavior patterns, including review history | ✗ | ✓ | ✗ | ✓ |
+| Hybrid Approaches | ✗ | ✗ | ✓ | ✓ |
+| Explainable AI(XAI) | ✗ | ✗ | ✗ | ✓ |
 
 ## 🎯 Objectives
 
