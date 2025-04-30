@@ -77,11 +77,6 @@ This component combines textual and behavioral features into a unified system fo
 - **Explainable AI**: SHAP, LIME
 - **Development Tools**: Jupyter Notebook, VS Code, Git
 
-## 📊 Datasets
-
-- **Amazon Fine Food Reviews Dataset**: Contains over 500,000 food reviews from Amazon
-- **ClickHouse**: Custom datasets focusing on product reviews and customer sentiment analysis
-
 ## 📑 Research Comparison
 
 ### Textual Content Analysis
