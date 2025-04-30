@@ -1,8 +1,7 @@
 # Trustworthy Reviewer Scoring System for Detecting Fake Reviews
 
 <div align="center">
-  <img src="https://github.com/username/repo-name/raw/main/images/system-diagram.png" alt="System Architecture" width="700">
-  <p><i>Note: Replace with your actual system architecture diagram path</i></p>
+  <img src="https://github.com/Sathiradissanayaka45/fake-review-detector/edit/main/assets/overall.png" alt="System Architecture" width="700">
 </div>
 
 ## 📑 Overview
