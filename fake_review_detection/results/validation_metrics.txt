@@ -1,0 +1,13 @@
+Validation Set Metrics:
+Accuracy: 81.87%
+AUC-ROC: 0.9021
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.84      0.82      2021
+           1       0.83      0.80      0.82      2022
+
+    accuracy                           0.82      4043
+   macro avg       0.82      0.82      0.82      4043
+weighted avg       0.82      0.82      0.82      4043
